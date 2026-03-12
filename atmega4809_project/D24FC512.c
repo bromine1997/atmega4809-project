@@ -1,10 +1,4 @@
-﻿/*
- * _24FC512.c
- *
- * Created: 2021-11-29 오후 12:57:07
- *  Author: Tae Min Shin
- */ 
-#define F_CPU	5000000UL		// Max System Clock Frequency at 1.8V ~ 5.5V VDD
+﻿#define F_CPU	5000000UL		// Max System Clock Frequency at 1.8V ~ 5.5V VDD
 
 #include <avr/io.h>
 #include <avr/interrupt.h>

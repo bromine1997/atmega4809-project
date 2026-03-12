@@ -1,10 +1,4 @@
-﻿/*
- * uart.h
- *
- * Created: 2021-10-04 오후 5:07:57
- *  Author: Tae Min Shin
- */ 
-
+﻿
 
 #ifndef UART_H_
 #define UART_H_

@@ -1,12 +1,4 @@
-﻿/*
- * _24FC512.h
- *
- * Created: 2021-11-29 오후 12:57:27
- *  Author: Tae Min Shin
- */ 
-
-
-#ifndef D24FC512_H_
+﻿#ifndef D24FC512_H_
 #define D24FC512_H_
 
 #define D24FC512_ADDR		0x50

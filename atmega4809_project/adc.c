@@ -1,11 +1,4 @@
-﻿/*
- * adc.c
- *
- * Created: 2021-10-11 오후 5:21:54
- *  Author: Tae Min Shin
- */ 
-
-#include <avr/io.h>
+﻿#include <avr/io.h>
 #include <avr/interrupt.h>
 #include <stdbool.h>
 

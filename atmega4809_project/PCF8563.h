@@ -1,12 +1,4 @@
-﻿/*
- * PCF8563.h
- *
- * Created: 2021-11-02 오후 3:45:17
- *  Author: Tae Min Shin
- */ 
-
-
-#ifndef PCF8563_H_
+﻿#ifndef PCF8563_H_
 #define PCF8563_H_
 
 #define	PCF8563_ADDR			0x51

@@ -1,11 +1,4 @@
-﻿/*
- * twi.h
- *
- * Created: 2021-10-25 오후 7:02:36
- *  Author: Tae Min Shin
- */ 
-
-
+﻿
 #ifndef TWI_H_
 #define TWI_H_
 

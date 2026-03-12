@@ -1,9 +1,4 @@
-﻿/*
- * rotarysw.c
- *
- * Created: 2021-09-27 오후 5:04:06
- *  Author: Tae Min Shin
- */ 
+﻿
 
 #include <avr/io.h>
 #include <stdbool.h>

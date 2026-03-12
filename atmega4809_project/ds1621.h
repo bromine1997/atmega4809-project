@@ -1,12 +1,4 @@
-﻿/*
- * ds1621.h
- *
- * Created: 2021-10-28 오후 1:56:07
- *  Author: Tae Min Shin
- */ 
-
-
-#ifndef DS1621_H_
+﻿#ifndef DS1621_H_
 #define DS1621_H_
 
 #define		DS1621_ADDR		0x48

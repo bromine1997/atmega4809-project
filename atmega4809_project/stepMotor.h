@@ -1,10 +1,4 @@
-﻿/*
- * stepMotor.h
- *
- * Created: 2021-11-30 오후 4:57:56
- *  Author: Tae Min Shin
- */ 
-
+﻿
 
 #ifndef STEPMOTOR_H_
 #define STEPMOTOR_H_

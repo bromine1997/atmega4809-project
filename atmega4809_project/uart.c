@@ -1,9 +1,4 @@
-﻿/*
- * uart.c
- *
- * Created: 2021-10-04 오후 5:07:37
- *  Author: Tae Min Shin
- */ 
+﻿
 #define F_CPU	5000000UL
 
 #include <avr/io.h>

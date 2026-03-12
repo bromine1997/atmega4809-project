@@ -1,9 +1,4 @@
-﻿/*
- * rotarysw.h
- *
- * Created: 2021-09-27 오후 5:04:31
- *  Author: Tae Min Shin
- */ 
+﻿
 
 
 #ifndef ROTARYSW_H_

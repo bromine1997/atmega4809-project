@@ -1,9 +1,3 @@
-/*
- * TestProg1.c
- *
- * Created: 2021-09-06 오후 4:44:25
- * Author : Tae Min Shin
- */ 
 #define F_CPU	5000000UL		// Max System Clock Frequency at 1.8V ~ 5.5V VDD
 
 #include <avr/io.h>

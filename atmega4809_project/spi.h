@@ -1,11 +1,4 @@
-﻿/*
- * spi.h
- *
- * Created: 2021-11-08 오후 5:37:15
- *  Author: Tae Min Shin
- */ 
-
-
+﻿
 #ifndef SPI_H_
 #define SPI_H_
 

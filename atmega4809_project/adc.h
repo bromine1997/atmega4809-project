@@ -1,12 +1,4 @@
-﻿/*
- * adc.h
- *
- * Created: 2021-10-11 오후 5:22:12
- *  Author: Tae Min Shin
- */ 
-
-
-#ifndef ADC_H_
+﻿#ifndef ADC_H_
 #define ADC_H_
 
 #define AIN1_CDS_SENSOR			ADC_MUXPOS1_bp
