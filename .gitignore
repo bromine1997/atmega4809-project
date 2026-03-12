@@ -1,0 +1,27 @@
+# Atmel Studio - Build output
+Debug/
+Release/
+*.elf
+*.hex
+*.map
+*.lss
+*.srec
+*.eep
+
+# Atmel Studio - Project metadata (자동 생성됨, 커밋 불필요)
+*.atsuo
+*.componentinfo.xml
+*.cproj.bak
+
+# Atmel Studio - User-specific settings
+*.atsln.user
+*.suo
+*.user
+
+# Preprocessed / dependency files
+*.d
+*.o
+*.a
+
+# Atmel Studio - Packs cache
+AtmelPackages/
